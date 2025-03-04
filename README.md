@@ -15,4 +15,11 @@ Paso 3 entrar a la BBDD mediante el comando psql -U postgres -d torneigdb
 y accederá si pidese pw sería postgres
 
 Acceder por ssh a developer
-deberemos acceder por ssh dentro del mismo contenedor
+
+deberemos acceder por ssh dentro del mismo contenedor usaremos la redirección de puertos
+ssh -p 1222 developer@localhost pw @ITB2024
+
+Acceder ssh a flask
+
+deberemos acceder por ssh dentro del mismo contenedor usaremos la redirección de puertos
+ssh -p 2222 root@localhost pw @ITB2024
