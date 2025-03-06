@@ -1,6 +1,6 @@
 # Acceder ssh a flask
 
-## deberemos acceder por ssh dentro del mismo contenedor usaremos la redirección de puertosssh -p 2222 root@localhost pw @ITB2024
+## deberemos acceder por ssh dentro del mismo contenedor usaremos la redirección de puertos ssh -p 2222 root@localhost pw @ITB2024
 
 # Ejecución flask en web 
 
